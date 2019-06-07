@@ -192,5 +192,3 @@ for x in INVERSE_PERMUTATION_TABLE :
 Cipher_Text=hex(int(cipher,2))
 Cipher_Text=Cipher_Text[2:]
 print(f"Encrypted Text is : {Cipher_Text}")
-
-# Code by Vikrant Malik
